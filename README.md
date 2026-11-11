@@ -18,4 +18,4 @@ Python, SQL, R, pandas, scikit-learn, PyTorch, Flask, React, Docker, Tableau, Po
 ## Outside of code
 Bass fishing, golf, thrifting, and exploring the Bay Area.
 
-Feel free to reach out about data, AI, or anything I've built.
+Feel free to reach out!
