@@ -1,6 +1,6 @@
 # Roy Ho
 
-Hi, I'm Roy! I'm a data science and AI professional based in San Francisco. I work as an AI Search Strategist at XLR8 AI, where I help brands understand how AI search platforms discover and recommend them. On the side, I'm an AI researcher and peer reviewer for JAIKE and I build data and AI projects. I graduated from UC Davis with a B.S. in Statistical Data Science and a minor in Computer Science.
+Hi, I'm Roy! I'm a data science and AI professional based in San Francisco. I work as an AI Search Strategist at XLR8 AI, where I help brands understand how AI search platforms discover and recommend them. On the side, I'm an AI researcher and peer reviewer for JAIKE, and I build software projects. I graduated from UC Davis with a B.S. in Statistical Data Science and a minor in Computer Science.
 
 **Portfolio:** [royho-career.com](https://www.royho-career.com) · **LinkedIn:** [linkedin.com/in/royho1](https://www.linkedin.com/in/royho1/)
 
